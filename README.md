@@ -52,7 +52,6 @@
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ak1ra-git&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
 ---
 
 ## 🔥 Sequência de Contribuições
