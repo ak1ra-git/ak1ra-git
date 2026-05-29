@@ -45,10 +45,13 @@
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ak1ra-git&show_icons=true&theme=radical&border_radius=10"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1ra-git&layout=compact&theme=radical"/>
-</p>
+<div align="center">
+
+![Mateus GitHub Stats](https://github-readme-stats.vercel.app/api?username=ak1ra-git&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ak1ra-git&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
