@@ -9,7 +9,7 @@
 
 🎓 Estudante de Engenharia de Software
 💻 Desenvolvedor Full-Stack em formação
-🏢 Estagiário na **FGV Conhecimento** (Bolsa Futuro Digital)
+🏢 Estagiário
 🔧 Back-end: C#, ASP.NET Core, Dapper, SQL Server
 🎨 Front-end: Next.js, TypeScript, Tailwind CSS
 📧 **Contato:** mateusoliveiranascimento28@gmail.com
@@ -48,7 +48,7 @@ Sistema de controle de estoque desenvolvido do zero como teste técnico do está
 - **Back-end:** ASP.NET Core 8 + Dapper + SQL Server, com transações SQL atômicas para validação de estoque, autenticação JWT, middleware global de exceções e Swagger protegido com Basic Auth + BCrypt.
 - **Front-end:** Next.js + TypeScript + Tailwind, com integração via utilitário centralizado de fetch e tratamento de estado.
 
-*(adicione aqui o link do repositório quando quiser divulgar)*
+*(https://github.com/ak1ra-git/PcInventory.git)*
 
 ---
 
@@ -67,12 +67,10 @@ Sistema de controle de estoque desenvolvido do zero como teste técnico do está
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-![Mateus GitHub Stats](https://github-readme-stats.vercel.app/api?username=ak1ra-git&show_icons=true&theme=tokyonight&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ak1ra-git&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ak1ra-git&show_icons=true&theme=tokyonight&hide_border=true" alt="Mateus GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak1ra-git&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
@@ -86,7 +84,7 @@ Sistema de controle de estoque desenvolvido do zero como teste técnico do está
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor full-stack em formação, atuando como estagiário na FGV Conhecimento, onde construo sistemas reais combinando **C# / ASP.NET Core** no back-end e **Next.js / TypeScript** no front-end.
+Sou desenvolvedor full-stack em formação, atuando como estagiário, onde construo sistemas reais combinando **C# / ASP.NET Core** no back-end e **Next.js / TypeScript** no front-end.
 
 💡 Aprendo resolvendo problemas reais de produção — desde configuração de bancos de dados até autenticação e deploy.
 🎯 Foco em entender profundamente cada decisão técnica, não só em fazer funcionar.
