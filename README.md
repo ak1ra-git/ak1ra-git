@@ -1,32 +1,54 @@
 <!-- ANIMAÇÃO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Mateus!;Front-end+Developer+em+evolução;Futuro+Full+Stack+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Mateus!;Full-Stack+Developer+em+formação;C%23+%2F+.NET+%2B+Next.js+%2F+TypeScript;Sempre+aprendendo+na+prática+🚀" />
 </p>
 
 ---
 
 # 👋 Olá, eu sou Mateus!
 
-🎓 Estudante de Engenharia de Software  
-💻 Desenvolvedor Front-end em evolução  
-🚀 Focado em HTML, CSS e JavaScript  
-📈 Buscando evoluir para Full Stack  
-
-📧 **Contato:** mateusoliveiranascimento28@gmail.com  
+🎓 Estudante de Engenharia de Software
+💻 Desenvolvedor Full-Stack em formação
+🏢 Estagiário na **FGV Conhecimento** (Bolsa Futuro Digital)
+🔧 Back-end: C#, ASP.NET Core, Dapper, SQL Server
+🎨 Front-end: Next.js, TypeScript, Tailwind CSS
+📧 **Contato:** mateusoliveiranascimento28@gmail.com
 
 ---
 
 ## 💻 Tecnologias e Ferramentas
 
-### 🚀 Atualmente estudando
+### 🛠️ Back-end
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120)
+![.NET](https://img.shields.io/badge/ASP.NET_Core-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![SQLServer](https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+
+### 🎨 Front-end
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🧰 Fundamentos & Ferramentas
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 
-### 📚 Próximos passos
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+### 📚 Explorando agora
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+---
+
+## 🚀 Projeto em destaque
+
+### 📦 PC Inventory
+Sistema de controle de estoque desenvolvido do zero como teste técnico do estágio.
+- **Back-end:** ASP.NET Core 8 + Dapper + SQL Server, com transações SQL atômicas para validação de estoque, autenticação JWT, middleware global de exceções e Swagger protegido com Basic Auth + BCrypt.
+- **Front-end:** Next.js + TypeScript + Tailwind, com integração via utilitário centralizado de fetch e tratamento de estado.
+
+*(adicione aqui o link do repositório quando quiser divulgar)*
 
 ---
 
@@ -48,10 +70,10 @@
 <div align="center">
 
 ![Mateus GitHub Stats](https://github-readme-stats.vercel.app/api?username=ak1ra-git&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ak1ra-git&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
 ---
 
 ## 🔥 Sequência de Contribuições
@@ -64,20 +86,20 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor focado em evolução constante.  
-Atualmente construindo minha base sólida em **Front-end** enquanto me preparo para atuar como **Full Stack Developer**.
+Sou desenvolvedor full-stack em formação, atuando como estagiário na FGV Conhecimento, onde construo sistemas reais combinando **C# / ASP.NET Core** no back-end e **Next.js / TypeScript** no front-end.
 
-💡 Gosto de aprender na prática criando projetos reais  
-🎯 Buscando crescer na área e aproveitar ao máximo minha oportunidade no estágio  
+💡 Aprendo resolvendo problemas reais de produção — desde configuração de bancos de dados até autenticação e deploy.
+🎯 Foco em entender profundamente cada decisão técnica, não só em fazer funcionar.
 
 ---
 
 ## 🎯 Objetivos atuais
 
-- 🚀 Dominar JavaScript
-- ⚛️ Aprender React e Next.js
-- 🧠 Evoluir lógica de programação
-- 💼 Crescer como desenvolvedor profissional
+- 🏗️ Aprofundar arquitetura back-end (ASP.NET Core, boas práticas de API)
+- 🐳 Aprender Docker para deploy de aplicações
+- 🧠 Evoluir lógica de programação e estruturas de dados
+- 🐍 Retomar Python com consistência
+- 💼 Crescer como desenvolvedor full-stack profissional
 
 ---
 
