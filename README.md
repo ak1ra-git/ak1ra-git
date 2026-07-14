@@ -8,8 +8,7 @@
 # 👋 Olá, eu sou Mateus!
 
 🎓 Estudante de Engenharia de Software
-💻 Desenvolvedor Full-Stack em formação
-🏢 Estagiário
+💻 Desenvolvedor Full-Stack
 🔧 Back-end: C#, ASP.NET Core, Dapper, SQL Server
 🎨 Front-end: Next.js, TypeScript, Tailwind CSS
 📧 **Contato:** mateusoliveiranascimento28@gmail.com
@@ -84,7 +83,7 @@ Sistema de controle de estoque desenvolvido do zero como teste técnico do está
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor full-stack em formação, atuando como estagiário, onde construo sistemas reais combinando **C# / ASP.NET Core** no back-end e **Next.js / TypeScript** no front-end.
+Sou desenvolvedor full-stack **C# / ASP.NET Core** no back-end e **Next.js / TypeScript**.
 
 💡 Aprendo resolvendo problemas reais de produção — desde configuração de bancos de dados até autenticação e deploy.
 🎯 Foco em entender profundamente cada decisão técnica, não só em fazer funcionar.
